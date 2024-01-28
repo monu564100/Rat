@@ -1,0 +1,15 @@
+{
+    "device_list": {
+        "ffffffff-e744-d553-ffff-ffffef05ac4a": {
+            "UNIQUE_ID": "ffffffff-e744-d553-ffff-ffffef05ac4a",
+            "COUNTRY": "IR",
+            "SOFTWARE_VERSION": "Android 13",
+            "SIM_OPERATOR": "Irancell",
+            "DEVICE_MODEL": "Xiaomi - 2109119DG",
+            "DEVICE_LANGUAGE": "fa",
+            "IS_ROOTED": "false",
+            "CHARGE": "66%",
+            "TOTAL_RAM": "7.044445"
+        }
+    }
+}
